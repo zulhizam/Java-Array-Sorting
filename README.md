@@ -8,7 +8,7 @@ for how the downloads plugin and site plugin are configured.
 # Getting started
 
 ```
-$ git clone https://github.com/zulhizam/jpmTest 
+$ git clone https://github.com/zulhizam/jpmTest.git
 $ mvn clean install
 ```
 # Running the Apps
