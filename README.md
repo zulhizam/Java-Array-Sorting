@@ -53,7 +53,6 @@ Daily Outgoing Rank (USD)
 4. 08 Feb 2016: 0.0
 --------------------------
 ```
-
 <h3>Sample data represents the instructions sent by various clients to JP Morgan to execute in the international market. </h3>
 <table>
     <tr>
@@ -66,8 +65,18 @@ Daily Outgoing Rank (USD)
         <td>Units</td>
         <td>Price per unit</td>
     </tr>
+  
     <tr>    <td>foo</td>
             <td>B</td>
+            <td>0.50</td>
+            <td>SGP</td>
+            <td>01 Jan 2016</td>
+            <td>02 Jan 2016</td>
+            <td>200</td>
+            <td>100.25</td>
+    </tr>
+    <tr>    <td>foo</td>
+            <td>S</td>
             <td>0.50</td>
             <td>SGP</td>
             <td>01 Jan 2016</td>
@@ -84,5 +93,45 @@ Daily Outgoing Rank (USD)
             <td>07 Jan 2016</td>
             <td>450</td>
             <td>150.5</td>
+    </tr>
+    <tr>
+            <td>bar</td>
+            <td>B</td>
+            <td>0.18</td>
+            <td>SAR</td>
+            <td>05 Jan 2016</td>
+            <td>07 Jan 2016</td>
+            <td>250</td>
+            <td>10.5</td>
+    </tr>
+    <tr>
+            <td>bar</td>
+            <td>S</td>
+            <td>0.50</td>
+            <td>SGD</td>
+            <td>05 Feb 2016</td>
+            <td>07 Feb 2016</td>
+            <td>300</td>
+            <td>120.5</td>
+    </tr>
+    <tr>
+            <td>sef</td>
+            <td>B</td>
+            <td>0.22</td>
+            <td>JPY</td>
+            <td>01 Jan 2016</td>
+            <td>02 Jan 2016</td>
+            <td>50</td>
+            <td>250</td>
+    </tr>
+     <tr>
+            <td>sef</td>
+            <td>S</td>
+            <td>0.22</td>
+            <td>JPY</td>
+            <td>11 Jun 2016</td>
+            <td>12 Jun 2016</td>
+            <td>5000</td>
+            <td>250</td>
     </tr>
 </table>        
