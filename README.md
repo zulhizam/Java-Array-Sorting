@@ -86,14 +86,3 @@ Daily Outgoing Rank (USD)
             <td>150.5</td>
     </tr>
 </table>        
-<ul><li>A work week starts Monday and ends Friday, unless the currency of the trade is AED or SAR, where the work week starts Sunday and ends Thursday. No other holidays to be taken into account.</li>
-    <li>A trade can only be settled on a working day.</li>
-    <li>If an instructed settlement date falls on a weekend, then the settlement date should be changed to the next working day.</li>
-    <li>USD amount of a trade = Price per unit * Units * Agreed Fx</li>
-    </ul>
-    <p>Requirements</p>
-    <ul>
-        <li>Create a report that shows</li>
-        <li>Amount in USD settled incoming everyday</li><li>Amount in USD settled outgoing everyday</li>
-        <li>Ranking of entities based on incoming and outgoing amount. Eg: If entity foo instructs the highest amount for a buy instruction, then foo is rank 1 for outgoing</li>
-    </ul>
