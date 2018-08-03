@@ -65,7 +65,6 @@ Daily Outgoing Rank (USD)
         <td>Units</td>
         <td>Price per unit</td>
     </tr>
-  
     <tr>    <td>foo</td>
             <td>B</td>
             <td>0.50</td>
