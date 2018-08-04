@@ -13,9 +13,7 @@ $ mvn clean install
 ```
 # Running the Apps
 ```
-$ mvn compile
-$ mvn clean package
-$ java -cp target/com.jp.test-0.0.1-SNAPSHOT.jar com.jp.test.App
+$ java -cp target/test-0.0.1-SNAPSHOT.jar com.jp.test.App
 ```
 # Expected Results
 ```
